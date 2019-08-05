@@ -1,0 +1,31 @@
+{
+	"parser": "babel-eslint",
+	"extends": ["airbnb", "prettier", "prettier/react"],
+	"plugins": ["prettier"],
+	"env": {
+		"browser": true,
+		"node": true,
+		"jasmine": true
+	},
+	"rules": {
+		"comma-dangle": 0,
+		"react/jsx-filename-extension": false,
+		"react/jsx-sort-props": true,
+		"react/prefer-stateless-function": false,
+		"jsx-a11y/anchor-is-valid": false,
+		"no-unused-expressions": ["error", {
+			"allowShortCircuit": true,
+			"allowTernary": true,
+			"allowTaggedTemplates": true
+		}],
+		"prettier/prettier": [
+			"error",
+			{
+				"trailingComma": "es5",
+				"printWidth": 80,
+				"jsxBracketSameLine": true,
+				"number-leading-zero": null
+			}
+		]
+	}
+}
