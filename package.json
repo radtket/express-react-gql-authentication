@@ -45,7 +45,7 @@
     "apollo-link": "1.2.8",
     "apollo-link-error": "1.1.7",
     "apollo-link-http": "1.5.11",
-    "apollo-server-express": "2.4.0",
+    "apollo-server-express": "2.14.2",
     "body-parser": "1.18.3",
     "browserslist": "^4.6.6",
     "caniuse-lite": "^1.0.30000988",
