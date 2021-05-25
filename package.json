@@ -47,7 +47,7 @@
     "apollo-link-http": "1.5.11",
     "apollo-server-express": "2.14.2",
     "body-parser": "1.18.3",
-    "browserslist": "^4.6.6",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30000988",
     "cookies": "0.7.3",
     "express": "4.16.4",
