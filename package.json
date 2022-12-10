@@ -50,7 +50,7 @@
     "browserslist": "^4.6.6",
     "caniuse-lite": "^1.0.30000988",
     "cookies": "0.7.3",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "graphql": "14.1.1",
     "graphql-tag": "2.10.1",
     "isomorphic-fetch": "2.2.1",
